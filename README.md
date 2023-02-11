@@ -50,3 +50,10 @@ ABI.CCK - original crouch animation [(link)](https://cck.cvr.gg/)
 Xiexie - jump/fall animations [(link)](https://github.com/Xiexe/OldPatreonExclusiveThings)
 
 Blender - constraints and bake action features that both drove me mad and made my shit actually not shit
+
+---
+
+Here is the block of text where I tell you it's not my fault if you're bad at Unity.
+
+> Use of this Unity Script is done so at the user's own risk and the creator cannot be held responsible for any issues arising from its use.
+
