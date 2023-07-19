@@ -1,9 +1,9 @@
-# CVR.BaseAnimatorPatch
-improved base animator to work from for use in chilloutvr
+## Notice:
+This will not be receiving any updates until ChilloutVR's IKSystem is fixed. 
 
-Make sure to drag the CVRParamStream prefab on to the root of your avatar, or merge into your existing CVRParameterStream component.
+I do not want to release a locomotion prefab that has to mitigate animation bleeding into FBT IK.
 
-**(i will not help you use this, dont bother asking pls thx)**
+# CCK.BaseAnimatorPatch
 
 ![image](https://user-images.githubusercontent.com/37721153/187007646-68e4b525-009d-4161-a16e-e2e6e84773e4.png)
 
